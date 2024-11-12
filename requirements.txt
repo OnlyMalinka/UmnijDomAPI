@@ -1,0 +1,6 @@
+Flask==3.0.3
+paho_mqtt==2.0.0
+psycopg2-binary
+psycopg2==2.9.9
+PyJWT==2.8.0
+
